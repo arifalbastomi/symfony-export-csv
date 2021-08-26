@@ -21,6 +21,5 @@ class Geocode
 
         return $array;
 
-
     }
 }
